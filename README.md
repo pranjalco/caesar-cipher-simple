@@ -7,9 +7,9 @@ in one run. A Python program that encodes and decodes messages using the Caesar 
 
 ## Level
 - **Level**: Simple
-- **Skills:** Python, String Manipulation, Loops, Random Module, Conditionals, Lists, ASCII Art
-- **Domain:** Game Development, Python Programming, Beginner Projects
-
+- **Skills:** Python, string manipulation, user input handling, error handling, ASCII Art
+- **Domain:** Cryptography, Security, Algorithms
+- 
 ## Author
 - **Name**: Pranjal Sarnaik
 - **Date**: 2024-12-03
