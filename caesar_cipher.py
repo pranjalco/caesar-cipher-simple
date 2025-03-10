@@ -1,22 +1,28 @@
 from art import logo
 
 """
-# Project 5: Caesar Cipher
-### Description:
-A Python program that implements the Caesar Cipher for encoding and decoding messages. Users can input text,
-choose shift numbers, and decide whether to encode or decode. Includes a user-friendly loop for multiple operations
-in one run.
+# Caesar Cipher
+A Python program that encodes and decodes messages using the Caesar Cipher. Users can input text, choose shift numbers, and perform multiple operations in one run.
 
-A Python program that encodes and decodes messages using the Caesar Cipher technique.
+## Author
+Pranjal Sarnaik
 
-### Features:
-    - Encode or decode messages based on user choice.
-    - Input custom text and shift numbers.
-    - Loop for performing multiple operations in one session.
+## Features
+- Encode or decode messages based on user choice.
+- Input custom text and shift numbers.
+- Loop for performing multiple operations in one session.
 
-# Level: Simple
-Author: Pranjal Sarnaikpi
-Date: 2024-12-03
+## Tech Stack
+Python | String Manipulation | User Input Handling | Error Handling | ASCII Art | Cryptography | Algorithms
+
+## How to Run
+1. Clone the repo:  
+   ```bash  
+   git clone https://github.com/pranjalco/caesar-cipher-simple.git
+
+2. Run:
+    ```bash  
+   python caesar_cipher.py
 """
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
